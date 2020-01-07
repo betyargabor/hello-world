@@ -1,4 +1,3 @@
 # hello-world
-First repo - Hello World
-
+First repo - Hello W.
 Hi everybody!
